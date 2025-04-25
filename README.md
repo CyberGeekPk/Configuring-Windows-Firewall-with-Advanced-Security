@@ -5,6 +5,12 @@ This project demonstrates how inbound and outbound rules can be managed programm
 
 A simulated implementation and interface inspired by the native Windows Firewall with Advanced Security, allowing users to manage inbound/outbound rules, filter traffic by port, protocol, and application, and understand core firewall and network security concepts. Designed to enhance understanding of firewall architecture, rule hierarchies, and network security principles.
 
+In this mini project, I developed a comprehensive understanding of how to secure a Windows operating system using the real-time protection provided by Windows Firewall.
+I reviewed following settings to enable firewall:
+
+- 1: Configure Firewall Rules Using Windows Defender Firewall
+- 2: Configure Firewall Rules Using Windows Defender Firewall with Advanced Security
+
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
 
