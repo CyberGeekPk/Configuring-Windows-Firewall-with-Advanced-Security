@@ -16,7 +16,7 @@ Further in this project, I explored few typical use cases that can be controlled
 - Scenario 1: Block Remote Desktop on the Public Network (Inbound Rules)
 - Scenario 2: Block Outbound Traffic for Specified Applications (Outbound Rules)
 - Scenario 3: Block Web Server (HTTP) Traffic on a Public Network (Inbound Rules)
-- Scenario 4: Allow Key Management Service on the Domain and Private network, and deny the connection on the Public network (Inbound Rules)
+- Scenario 4: Allow Key Management Service on Domain and Private network, and deny Connection on Public network (Inbound Rules)
 
 ## Skills Learned
 
