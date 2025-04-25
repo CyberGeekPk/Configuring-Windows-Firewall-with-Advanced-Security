@@ -20,26 +20,26 @@ Further in this project, I explored few typical use cases that can be controlled
 
 ## Skills Learned
 
-- ### Windows OS Security Configuration
+### Windows OS Security Configuration
 Gained practical knowledge of securing Windows systems using built-in firewall features.
 
-- ### Firewall Rule Management
+### Firewall Rule Management
 Learned how to create, modify, and enforce inbound and outbound rules using both basic and advanced Windows Defender Firewall settings.
 
-- ### Network Traffic Control
+### Network Traffic Control
 Understood how to allow or block traffic based on protocols, ports, application paths, and network profiles (Public, Private, Domain).
 
-- ### Scenario-Based Problem Solving
+### Scenario-Based Problem Solving
 Applied firewall configurations to real-world scenarios like:
 - Blocking Remote Desktop access on public networks
 - Restricting application-level outbound traffic
 - Controlling HTTP traffic exposure
 - Allowing selective access based on network types
 
-- ### System Administration Basics
+### System Administration Basics
 Developed foundational skills in managing Windows security settings and interpreting system behavior in response to rule changes.
 
-- ### Security Best Practices Awareness
+### Security Best Practices Awareness
 Improved understanding of least privilege, secure defaults, and network segmentation principles.
 
 ### Tools Used
