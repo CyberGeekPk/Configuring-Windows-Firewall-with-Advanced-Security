@@ -58,7 +58,7 @@ In these scenarios, we will look at Windows Defender Firewall with Advanced Secu
 - [Scenario 1: Block Remote Desktop on the Public Network Using Windows Firewall (Inbound Rules)](scenario1.md)
 - [Scenario 2 : Block Outbound Traffic for Specified Applications (Outbound Rules)](scenario2.md)
 - [Scenario 3 : Block Web Server (HTTP) Traffic on a Public Network](scenario3.md)
-- [Scenario 4 : Allow Key Management Service on the Domain and Private Network & Deny the Connection on the Public network](scenario4.md)
+- [Scenario 4 : Allow Key Management Service on Domain and Private Network & Deny Connection on Public network](scenario4.md)
 
 ### Additional Exercise : Enable Firewall on different Network Profiles
 
