@@ -2,6 +2,8 @@
 
 Creating outbound rules to restrict applications from sending data over the internet can help enhance your system’s security and control network traffic. Here are the steps to create such rules using Windows Defender Firewall with Advanced Security.
 
+## Steps
+
 1. Open the Windows Defender Firewall with Advanced Security options
 2. Follow steps in Scenario 1 to open the Advanced Security option window.
 3. Select Outbound Rules and create a new Rule
