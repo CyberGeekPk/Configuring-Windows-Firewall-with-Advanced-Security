@@ -53,7 +53,8 @@ Improved understanding of least privilege, secure defaults, and network segmenta
 
 In these scenarios, we will look at Windows Defender Firewall with Advanced Security. This advanced view provides in-depth options for configuration. All Windows Firewall rules, and their details, are stored here, allowing you to edit configurations for each rule or exception.
 
-- [Scenario 1: Block Remote Desktop on the Public Network Using Windows Firewall (Inbound Rules)](Configuring-Windows-Firewall-with-Advanced-Security/scenario1.md)
+- [Scenario 1: Block Remote Desktop on the Public Network Using Windows Firewall (Inbound Rules)](Configuring-Windows-Firewall-with-Advanced-Security
+/scenario1.md)
 
 ### Additional Exercise : Enable Firewall on different Network Profiles
 
