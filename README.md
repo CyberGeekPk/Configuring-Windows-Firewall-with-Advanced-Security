@@ -1,5 +1,5 @@
 # Configuring Windows Firewall with Advanced Security
-This project demonstrates how inbound and outbound rules can be managed programmatically, mimicking real-world firewall behavior. Features include rule creation, editing, deletion, and real-time filtering based on ports, protocols, and application paths.
+This project explores securing a Windows operating system using Windows Defender Firewall and its advanced settings. It involves configuring inbound and outbound rules to control network traffic and applying them to real-world scenarios such as blocking Remote Desktop on public networks and restricting outbound access for specific applications. The project demonstrates practical skills in system security, firewall management, and network protection strategies.
 
 ## Objective
 
@@ -18,14 +18,29 @@ Further in this project, I explored few typical use cases that can be controlled
 - Scenario 3: Block Web Server (HTTP) Traffic on a Public Network (Inbound Rules)
 - Scenario 4: Allow Key Management Service on the Domain and Private network, and deny the connection on the Public network (Inbound Rules)
 
-### Skills Learned
-[Bullet Points - Remove this afterwards]
+## Skills Learned
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+### Windows OS Security Configuration
+Gained practical knowledge of securing Windows systems using built-in firewall features.
+
+### Firewall Rule Management
+Learned how to create, modify, and enforce inbound and outbound rules using both basic and advanced Windows Defender Firewall settings.
+
+### Network Traffic Control
+Understood how to allow or block traffic based on protocols, ports, application paths, and network profiles (Public, Private, Domain).
+
+### Scenario-Based Problem Solving
+Applied firewall configurations to real-world scenarios like:
+- Blocking Remote Desktop access on public networks
+- Restricting application-level outbound traffic
+- Controlling HTTP traffic exposure
+- Allowing selective access based on network types
+
+### System Administration Basics
+Developed foundational skills in managing Windows security settings and interpreting system behavior in response to rule changes.
+
+### Security Best Practices Awareness
+Improved understanding of least privilege, secure defaults, and network segmentation principles.
 
 ### Tools Used
 [Bullet Points - Remove this afterwards]
