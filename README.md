@@ -105,9 +105,8 @@ Each of these rules can be configured to filter traffic based on computers, user
 
 2. Disable Remote Desktop on the Public Network
 Create a New Inbound Rule
-     In the left pane, click on Inbound Rules.
-     Here you will see a long list of inbound rules. Note that some of the rules have a green checkmark next to them. This indicates that the rule is enabled to allow 
-     inbound communication. The rules without a checkmark are available for use but are not enabled.
+In the left pane, click on Inbound Rules.
+Here you will see a long list of inbound rules. Note that some of the rules have a green checkmark next to them. This indicates that the rule is enabled to allow inbound communication. The rules without a checkmark are available for use but are not enabled.
 
 ![image](https://github.com/user-attachments/assets/bf91546f-9474-4742-a78a-5647b72b3af5)
 
@@ -117,34 +116,34 @@ Create a New Inbound Rule
 ![image](https://github.com/user-attachments/assets/3ec0cb3e-b2ad-4e05-be30-fa9eaf8e1dbd)
 
 5. Specify Port
-     Select TCP.
-     In Specific local ports, enter 3389 (the default port for Remote Desktop).
-     Click Next.
+Select TCP.
+In Specific local ports, enter 3389 (the default port for Remote Desktop).
+Click Next.
 
 ![image](https://github.com/user-attachments/assets/12fce46e-7860-41e9-89d1-59fdbadc0b7d)
 
 6. Specify Action
-     Select Block the connection.
-     Click Next.
+Select Block the connection.
+Click Next.
 
 ![image](https://github.com/user-attachments/assets/5a78f4a1-eeae-4af4-a7d7-943b0264e933)
 
 7. Select Profile
-     Select only Public.
-     Deselect Domain and Private.
-     Click Next.
+Select only Public.
+Deselect Domain and Private.
+Click Next.
 
 ![image](https://github.com/user-attachments/assets/79399e09-2764-425b-b55f-814bd8c347d2)
 
 8. Name the Rule
-     Enter a name for the rule, such as 'Block Remote Desktop on Public Network'.
-     Optionally, provide a description.
-     Click Finish.
+Enter a name for the rule, such as 'Block Remote Desktop on Public Network'.
+Optionally, provide a description.
+Click Finish.
 
 ![image](https://github.com/user-attachments/assets/e1a7a684-d141-4e0c-b51b-8e8179b80ac8)
 
 9. Verify the rule listed under Inbound Rules
-     Click Inbound Rules and verify the new rule Enabled. A red circle typically indicates that a rule is blocking traffic.
+Click Inbound Rules and verify the new rule Enabled. A red circle typically indicates that a rule is blocking traffic.
 
 
 
