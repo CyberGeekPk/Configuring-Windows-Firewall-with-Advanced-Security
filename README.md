@@ -56,6 +56,7 @@ In these scenarios, we will look at Windows Defender Firewall with Advanced Secu
 ## Steps Involved
 
 - [Scenario 1: Block Remote Desktop on the Public Network Using Windows Firewall (Inbound Rules)](scenario1.md)
+- [Scenario 2 - Block Outbound Traffic for Specified Applications (Outbound Rules)](scenario2.md)
 
 ### Additional Exercise : Enable Firewall on different Network Profiles
 
