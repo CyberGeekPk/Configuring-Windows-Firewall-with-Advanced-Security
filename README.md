@@ -42,18 +42,46 @@ Developed foundational skills in managing Windows security settings and interpre
 ### Security Best Practices Awareness
 Improved understanding of least privilege, secure defaults, and network segmentation principles.
 
-### Tools Used
+## Tools Used
 
 - Windows Defender Firewall to configure and manage basic inbound and outbound rules for network protection
 - Windows Defender Firewall with Advanced Security (WFAS) for rule creation and advanced network traffic filtering across different profiles (Domain, Private, Public)
 - Windows 10/11 Operating System platform on which firewall settings were tested and configured.
 - Remote Desktop Protocol (RDP) used in scenarios to simulate and block remote connections based on firewall configurations.
 
-## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+## Steps 
 
-Every screenshot should have some text explaining what the screenshot is about.
+### Exercise 1: Enable Firewall on different Network Profiles
 
-Example below.
+In this exercise we will review Windows Defender Firewall configuration.
 
-*Ref 1: Network Diagram*
+1. Click the Windows Start button. and then select Windows Security.
+2. Click Firewall & network protection.
+3. Here you will see the firewall status for the following:
+- Domain network
+- Private network
+- Public network
+4. Click Domain network.
+5. Verify that the Microsoft Defender Firewall is toggled to On.
+Observe the option Incoming connections. If you need to block all incoming domain network traffic, including traffic that is typically allowed, then you only need to activate this option.
+6. Select the back arrow button to return to the Firewall and network protection window.
+7. Click Private network.
+8. Verify that the Microsoft Defender Firewall is toggled to On.
+Select the back arrow button to return to the Firewall and network protection window.
+9. Click Public network.
+10. Verify that the Microsoft Defender Firewall is toggled to On.
+Select the back arrow button to return to the Firewall and network protection window.
+11. Click Allow an app through firewall.
+12. Scroll to Google Chrome OR Mozilla Firefox. Observe in the screenshot below that the current configuration allows for Firefox to communicate on the Private network only but denies it from communicating on the Public network.
+  
+![image](https://github.com/user-attachments/assets/1c01b295-f65a-4624-9590-0b406f177eb7)
+
+13. Click the Public box next to Firefox to allow Firefox to communicate through the Public network as well. A checkmark will appear. Click OK to return to the Firewall & network protection screen. Users will now be able to use Mozilla Firefox on the public network.
+
+![image](https://github.com/user-attachments/assets/bb8dd117-7fd1-4eb0-8203-4f560f01419b)
+
+  
+
+
+
+
