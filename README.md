@@ -65,22 +65,14 @@ In this exercise we will review Windows Defender Firewall configuration.
 - Domain network
 - Private network
 - Public network
-4. Click Domain network.
-5. Verify that the Microsoft Defender Firewall is toggled to On.
-Observe the option Incoming connections. If you need to block all incoming domain network traffic, including traffic that is typically allowed, then you only need to activate this option.
-6. Select the back arrow button to return to the Firewall and network protection window.
-7. Click Private network.
-8. Verify that the Microsoft Defender Firewall is toggled to On.
+4. Verify that the Microsoft Defender Firewall is toggled to On for Domain, Public and Private Network.
 Select the back arrow button to return to the Firewall and network protection window.
-9. Click Public network.
-10. Verify that the Microsoft Defender Firewall is toggled to On.
-Select the back arrow button to return to the Firewall and network protection window.
-11. Click Allow an app through firewall.
-12. Scroll to Google Chrome OR Mozilla Firefox. Observe in the screenshot below that the current configuration allows for Firefox to communicate on the Private network only but denies it from communicating on the Public network.
+5. Click Allow an app through firewall.
+6. Scroll to Google Chrome OR Mozilla Firefox. Observe in the screenshot below that the current configuration allows for Firefox to communicate on the Private network only but denies it from communicating on the Public network.
   
 ![image](https://github.com/user-attachments/assets/1c01b295-f65a-4624-9590-0b406f177eb7)
 
-13. Click the Public box next to Firefox to allow Firefox to communicate through the Public network as well. A checkmark will appear. Click OK to return to the Firewall & network protection screen. Users will now be able to use Mozilla Firefox on the public network.
+7. Click the Public box next to Firefox to allow Firefox to communicate through the Public network as well. A checkmark will appear. Click OK to return to the Firewall & network protection screen. Users will now be able to use Mozilla Firefox on the public network.
 
 ![image](https://github.com/user-attachments/assets/bb8dd117-7fd1-4eb0-8203-4f560f01419b)
 
