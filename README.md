@@ -51,7 +51,7 @@ Improved understanding of least privilege, secure defaults, and network segmenta
 
 ## Typical use cases with Windows Firewall Advanced Security options
 
-The first exercise is based in the consumer-friendly version of Windows Defender Firewall – a simplified interface ideal for a single device in a home setting. In this exercise, we will look at Windows Defender Firewall with Advanced Security. This advanced view provides more in-depth options for configuration. All Windows Firewall rules, and their details, are stored here, allowing you to edit configurations for each rule or exception.
+In these scenarios, we will look at Windows Defender Firewall with Advanced Security. This advanced view provides in-depth options for configuration. All Windows Firewall rules, and their details, are stored here, allowing you to edit configurations for each rule or exception.
 
 ### Scenario 1 - Block Remote Desktop on the Public Network Using Windows Firewall (Inbound Rules)
 
