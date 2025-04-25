@@ -43,11 +43,11 @@ Developed foundational skills in managing Windows security settings and interpre
 Improved understanding of least privilege, secure defaults, and network segmentation principles.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- Windows Defender Firewall to configure and manage basic inbound and outbound rules for network protection
+- Windows Defender Firewall with Advanced Security (WFAS) for rule creation and advanced network traffic filtering across different profiles (Domain, Private, Public)
+- Windows 10/11 Operating System platform on which firewall settings were tested and configured.
+- Remote Desktop Protocol (RDP) used in scenarios to simulate and block remote connections based on firewall configurations.
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
